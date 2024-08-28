@@ -1,4 +1,4 @@
-# Advanced Chat Application
+# Talkify By Kaysan Shaikh
 
 It is a real-time application built using the MERN stack. It provides users with a seamless and interactive chatting experience.
 
@@ -34,7 +34,7 @@ The project is built using the MERN stack, which consists of the following techn
 
 To use the Chat App MERN, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/FutureIntern/Talkify by Kaysan Shaikh`
+1. Clone the repository: `git clone https://github.com/Kaysanshaikh/FutureIntern_FSD_04`
 2. Navigate to the project directory
 3. Install the dependencies: `npm install`
 4. Set up the environment variables:
